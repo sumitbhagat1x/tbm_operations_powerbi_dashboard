@@ -86,12 +86,12 @@ TBM- OPERATIONS/
 
 **Page-1(Overview):**
 
-![ TBM- Operations Dashboard ](images/Page-1.png)
+![ TBM- Operations Dashboard ](Images/Page-1.png)
 
 ---
 **Page-2(Inventory):**
 
-![ TBM- Operations Dashboard ](images/Page-2.png)
+![ TBM- Operations Dashboard ](Images/Page-2.png)
 
 ---
 **Page-3(Procurement):**
