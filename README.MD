@@ -1,7 +1,7 @@
 
 # TBM– Operations - Power BI Dashboard
 
-_Built an interactive dashboard for TBM Consumer Products Pvt. Ltd. in FMCG domain. Used Power BI to generate insights and help take better decisions for a bussines._
+_Built an interactive dashboard for TBM Consumer Products Pvt. Ltd. in the FMCG domain. Used Power BI to generate insights and help make better decisions for a business._
 
 ---
 
@@ -18,7 +18,7 @@ _Built an interactive dashboard for TBM Consumer Products Pvt. Ltd. in FMCG doma
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-Built an interactive Power BI dashboard for TBM Consumer Products Pvt. Ltd. in FMCG domain, providing a comprehensive view of overall business performance. The dashboard highlights key performance indicators (KPIs), not only this but also it is divided into three parts including Overview, Inventory and Procurement. If you want to know more you can download the dashboard file and run in your system.
+Built an interactive Power BI dashboard for TBM Consumer Products Pvt. Ltd. in the FMCG domain, providing a comprehensive view of overall business performance. The dashboard highlights key performance indicators (KPIs), not only this but also it is divided into three parts, including Overview, Inventory and Procurement. If you want to know more, you can download the dashboard file and run it on your system.
 
 ---
 <h2><a class="anchor" id="business-objective"></a>Business Objective</h2>
@@ -30,8 +30,8 @@ Procurement data to improve decision making at store, regional and product level
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- The dataset used for this project from a youtube video( There was challeng provided in the youtube video to create a dashboard for a client.)
-- If you want to know more about youtube channel then you can search this name in youtube @thepowerbiman.
+- The dataset used for this project was from a YouTube video( There was a challenge provided in the YouTube video to create a dashboard for a client.)
+- If you want to know more about the YouTube channel, then you can search for this name on YouTube @thepowerbiman.
 
 ---
 
@@ -43,7 +43,7 @@ Procurement data to improve decision making at store, regional and product level
    - Dashboard design and Charts
 
 -  Excel:
-   - Imported data from the excel to power BI
+   - Imported data from the excel to Power BI
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
@@ -81,8 +81,8 @@ TBM- OPERATIONS/
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
 - Power BI  Dashboard shows:
-  - Shows KPIs Purchase Vs Consumption%, Sell Through Rate, Stock Coverage Days etc.
-  - You find Recived quantity & Sales over month and many more.
+  - Shows KPIs Purchase Vs Consumption%, Sell Through Rate, Stock Coverage Days, etc.
+  - You find the Received quantity & Sales over the month and many more.
 
 **Page-1(Overview):**
 
